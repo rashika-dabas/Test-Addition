@@ -5,11 +5,11 @@ Welcome to the Test Addition repository! This repository focuses on incorporatin
 
 ## Purpose
 
-The primary goal of this repository is to demonstrate effective testing practices using Python. Whether you are contributing to an open-source project or working on your own codebase, understanding how to create and execute tests is crucial for maintaining code quality.
+The primary goal of this repository is to demonstrate effective testing practices using Python. Whether contributing to an open-source project or working on your codebase, understanding how to create and execute tests is crucial for maintaining code quality.
 
 ## Features
 
-- **Python Test Implementation:** Leverage the simplicity and versatility of Python for creating effective test cases.
+- **Python Test Implementation:** Leverage the simplicity and versatility of Python for creating useful test cases.
 - **GitHub Portal Testing:** Explore the convenience of testing your code directly on the GitHub portal, ensuring seamless integration into your development workflow.
 - **Local Testing with Pytest:** Harness the capabilities of the Pytest module to run tests locally, enabling comprehensive testing during development.
 
@@ -17,11 +17,11 @@ The primary goal of this repository is to demonstrate effective testing practice
 
 Follow these steps to get started with testing using this repository:
 
-1. **Clone the Repository:** git clone https://github.com/your-username/your-repository.git
+1. **Clone the Repository:** git clone https://github.com/rashika-dabas/Test-Addition.git
 2. **Navigate to the Project Directory:**
 3. **Install Dependencies:**
 4. **Run Tests Locally:**
 
 ## Online Testing on GitHub
 
-This repository supports online testing through the GitHub portal. Simply push your changes, and GitHub Actions will automatically run the tests for you. Ensure your workflow configuration (.github/workflows/tests.yml) is appropriately set up.
+This repository supports online testing through the GitHub portal. Push your changes, and GitHub Actions will automatically run the tests for you. Do ensure your workflow configuration (.github/workflows/tests.yml) is appropriately set up.
