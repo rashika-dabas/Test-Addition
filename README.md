@@ -18,9 +18,9 @@ The primary goal of this repository is to demonstrate effective testing practice
 Follow these steps to get started with testing using this repository:
 
 1. **Clone the Repository:** git clone https://github.com/rashika-dabas/Test-Addition.git
-2. **Navigate to the Project Directory:**
-3. **Install Dependencies:**
-4. **Run Tests Locally:**
+2. **Navigate to the Project Directory:** cd Test-Addition
+3. **Install Dependencies:** pip install -r requirements.txt
+4. **Run Tests Locally:** pytest
 
 ## Online Testing on GitHub
 
