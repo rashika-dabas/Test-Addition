@@ -25,5 +25,4 @@ jobs:
         pip install -r requirements.txt  # If you have a requirements.txt file
     - name: Run tests
       run: |
-        pip install pytest
-        pytest  # Run pytest
+        pytest  # Run pytest
