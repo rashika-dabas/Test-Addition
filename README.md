@@ -24,4 +24,4 @@ Follow these steps to get started with testing using this repository:
 
 ## Online Testing on GitHub
 
-This repository supports online testing through the GitHub portal. Push your changes, and GitHub Actions will automatically run the tests for you. Do ensure your workflow configuration (.github/workflows/tests.yml) is appropriately set up.
+This repository supports online testing through the GitHub portal. Push your changes, and GitHub Actions will automatically run the tests for you. Do ensure your workflow configuration (.github/workflows/main.yml) is appropriately set up.
