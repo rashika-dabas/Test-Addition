@@ -1,14 +1,6 @@
-# Task
+# Validating and Evaluating Your Results
 
-The file 'get_a_point_for_writing_your_name.py' contain methods that are incomplete.
-The current tests are failing because this method isn't providing the correct output. 
-You are required to fix them up and ensure the test passes for a successful submission.
-
----
-
-## Validating and Evaluating Your Results
-
-### Online
+## Online
 1. After committing and pushing your code, check the mark on the top line (near the commit ID).
 2. If some tests are failing, click on the ❌ to open up a popup, which will show details about the errors.
 3. You can click the [Details]() link to see what went wrong. Pay special attention to lines with the words "Failed" or "error".
@@ -23,6 +15,6 @@ You are required to fix them up and ensure the test passes for a successful subm
 
 ![green](images/green.png)
 
-### Locally
+## Locally
 1. You can test your code locally by installing and running `pytest` (`pip install pytest` or `conda install pytest`).
 2. Run the tests using the command `pytest` in your terminal. This will show the status of each test and any errors that occurred.
